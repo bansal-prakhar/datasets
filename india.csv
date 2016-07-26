@@ -1,0 +1,30 @@
+code,state,category,total count
+IN-AP,Andhra Pradesh,state,21
+IN-AR,Arunachal Pradesh,state,37
+IN-AS,Assam,state,77
+IN-BR,Bihar,state,57
+IN-CT,Chhattisgarh[note 1],state,30
+IN-GA,Goa,state,86
+IN-GJ,Gujarat,state,62
+IN-HR,Haryana,state,62
+IN-HP,Himachal Pradesh,state,13
+IN-JK,Jammu and Kashmir,state,99
+IN-JH,Jharkhand,state,80
+IN-KA,Karnataka,state,60
+IN-KL,Kerala,state,37
+IN-MP,Madhya Pradesh,state,94
+IN-MH,Maharashtra,state,11
+IN-MN,Manipur,state,88
+IN-ML,Meghalaya,state,97
+IN-MZ,Mizoram,state,21
+IN-NL,Nagaland,state,47
+IN-OR,Odisha[note 2],state,72
+IN-PB,Punjab,state,97
+IN-RJ,Rajasthan,state,91
+IN-SK,Sikkim,state,95
+IN-TN,Tamil Nadu,state,73
+IN-TG,Telangana[note 3],state,45
+IN-TR,Tripura,state,11
+IN-UT,Uttarakhand[note 4],state,89
+IN-UP,Uttar Pradesh,state,67
+IN-WB,West Bengal,state,65
